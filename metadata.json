@@ -1,0 +1,7 @@
+{
+  "name": "专业品牌IP形象设计开发看板",
+  "description": "一个专业的高密度品牌IP角色设计和开发Web应用，包含Logo分析、角色系统生成和技术规格说明。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
